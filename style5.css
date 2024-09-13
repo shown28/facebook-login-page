@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header nav{
+    width: 1000px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header ul{
+    display: flex;
+    text-decoration: none;
+    list-style:;
+}
+header li{
+    margin-left: 20px;
+  
+}
